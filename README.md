@@ -27,7 +27,8 @@ pip install -r requirements.txt  -i https://pypi.tuna.tsinghua.edu.cn/simple
 The two main methods for using supported. 
   - The Script Method: 
     - 1、Go to the file of settings.py, modify the value of ITERATOR_ROUND_NUM,SEARCH_THEME_WORDS to what you want.
-    - 2、Just run `python opensea/run.py`
+    - 2、Remove code comments to startCrawling() in opensea/run.py:22  
+    - 3、Just run `python opensea/run.py`
 
   - The Interface Method:
     - 1、run `python opensea/Qtmain.py`
