@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Img">
+    <file>opensea.png</file>
+  </qresource>
+</RCC>
