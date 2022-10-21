@@ -5,9 +5,7 @@
 <br />      
 
 * @Time    :   2021/09/06 13:39:11    
-* @Author  :   Blake chen     
-* @Contact :   blake.chen@dfgroup.pro     
-* @License :   (C)Copyright 2021, DFG     
+* @Author  :   Blake chen          
 * @Desc    :   Crawler Using For OpenSea
 
 
